@@ -1,7 +1,7 @@
 # spotting-violence-in-news-nlp
 This project uses a simple NLP, supervised learning pipeline to identify several types of violence reports in news items.
 
-The Jupyter code https://github.com/hannesfelix/spotting-violence-in-news-nlp/ml_classifier_for_github.ipynb provides insights into the machine learning part of the article "How Big is the Media Multiplier? Evidence from Dyadic News Data" forthcoming in the Review of Economics and Statistics by Tim Besley, Thiemo Fetzer and Hannes Mueller. Please cite the paper if you use the code.
+The Jupyter code https://github.com/hannesfelixs/potting-violence-in-news-nlp/ml_classifier_for_github.ipynb provides insights into the machine learning part of the article "How Big is the Media Multiplier? Evidence from Dyadic News Data" forthcoming in the Review of Economics and Statistics by Tim Besley, Thiemo Fetzer and Hannes Mueller. Please cite the paper if you use the code.
 
 The code is designed to classify news articles based on violent content, focusing on Israel, Morocco, Tunisia, Turkey, and Egypt. The pipeline includes data preprocessing, model training, and out-of-sample testing with a case study on Sri Lanka. This overview serves as a guide through the various components of the code.
 
